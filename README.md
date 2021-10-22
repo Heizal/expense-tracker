@@ -10,9 +10,16 @@ This is an expense tracker built in React js.
   <li>Calculate total balance after income and expenses</li>
 </ul>
 
-## Frameworks used
+## Framework used 
 <ul>
   <li>Reactjs</li>
+</ul>
+
+## Lessons learnt
+<ul>
+  <li>Use of styled components</li>
+  <li>How to use dynamic API'S</li>
+  <li>Managing State using Context API</li>  
 </ul>
 
 ## Live site 
